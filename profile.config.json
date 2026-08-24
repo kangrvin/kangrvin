@@ -1,67 +1,67 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Ervin",
+    "username": "kangrvin",
+    "headline": "Machine Learning & Web Developer",
+    "affiliation": "ITB Ahmad Dahlan Jakarta",
+    "location": "Tangerang Selatan, Indonesia",
+    "status": "Building",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "Computer Science student passionate about web development and machine learning.",
+      "Always open to collaboration on open-source web and AI projects."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Machine Learning & Web Dev",
+    "direction": "Scalable AI & Machine Learning Systems",
+    "themes": "Frontend / Backend / Machine Learning",
+    "narrative": "I am focused on applying machine learning models and data analysis to build smart, scalable web applications."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Machine Learning",
+      "description": "Focusing on classification algorithms like Random Forest, XGBoost, and SVM."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Web Development",
+      "description": "Building responsive, modern web applications and user interfaces."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Data Science",
+      "description": "Analyzing datasets, extracting insights, and building quantitative evaluation models."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Coding Stress ML",
+      "url": "https://github.com/kangrvin/coding-stress-ml-studio",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "ML & Stress Classification",
+      "summary": "An ML application evaluating Random Forest, XGBoost, and SVM algorithms to predict the impact of coding stress on student programming performance.",
+      "heroLabel": "Machine Learning"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "Suzuki Showroom",
+      "url": "https://github.com/kangrvin/showroom-mobil-suzuki",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Web Development & UI/UX",
+      "summary": "A modern web application designed for showcasing Suzuki vehicle models, features, and pricing.",
+      "heroLabel": "Web App"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "Machine Learning",
+    "Web Development",
+    "MySQL",
+    "Node.js"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "kangrvin",
+      "url": "https://github.com/kangrvin",
       "logo": "github",
       "color": "0B1220"
     }
@@ -73,5 +73,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Continuous learning, building, and sharing what I learn."
 }
