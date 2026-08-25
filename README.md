@@ -45,7 +45,11 @@ I am focused on applying machine learning models and data analysis to build smar
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-_Recent public activity will appear here after the workflow runs._
+- Aug 24, 2026: pushed 1 commit to [kangrvin/kangrvin](https://github.com/kangrvin/kangrvin).
+- Aug 24, 2026: created a branch in [kangrvin/kangrvin](https://github.com/kangrvin/kangrvin).
+- Aug 17, 2026: pushed 1 commit to [kangrvin/coding-stress-ml-studio](https://github.com/kangrvin/coding-stress-ml-studio).
+- Aug 16, 2026: pushed 1 commit to [kangrvin/coding-stress-ml-studio](https://github.com/kangrvin/coding-stress-ml-studio).
+- Jul 29, 2026: created a branch in [kangrvin/portofolio-ervin](https://github.com/kangrvin/portofolio-ervin).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
