@@ -49,7 +49,6 @@ I am focused on applying machine learning models and data analysis to build smar
 - Sep 2, 2026: pushed 1 commit to [kangrvin/finance-management](https://github.com/kangrvin/finance-management).
 - Sep 1, 2026: pushed 1 commit to [kangrvin/finance-management](https://github.com/kangrvin/finance-management).
 - Sep 1, 2026: created a branch in [kangrvin/finance-management](https://github.com/kangrvin/finance-management).
-- Aug 25, 2026: pushed 1 commit to [kangrvin/coding-stress-ml-studio](https://github.com/kangrvin/coding-stress-ml-studio).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
